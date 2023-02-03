@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nik1031
 - 👀 I’m interested in Algorithmic trading
 - 🌱 I’m currently learning how to build a trading robot
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on coding challenges & competitions
 - 📫 How to reach me: LinkedIn in the bio
 
 <!---

@@ -2,7 +2,7 @@
 - 👀 I’m interested in Algorithmic trading
 - 🌱 I’m currently learning how to build a trading robot
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: LinkedIn in the bio
 
 <!---
 nik1031/nik1031 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
